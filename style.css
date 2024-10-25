@@ -4,6 +4,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    min-width: 1075px;
+}
 
 /* HEADER */
 
